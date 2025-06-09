@@ -1,10 +1,11 @@
 class Train:
     
-    def book():
+    def book(self):
         pass
-    def status():
+    def status(self):
         pass
-    def fare():
+    def fare(self):
         pass
+
     
 
